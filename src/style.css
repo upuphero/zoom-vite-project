@@ -1,0 +1,4 @@
+/* style.css */
+svg {
+  transition: viewBox 0.5s ease-in-out;
+}
